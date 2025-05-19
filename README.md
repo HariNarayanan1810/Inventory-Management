@@ -7,7 +7,10 @@ Back-End: Spring Boot (REST API)
 Database: PostgreSQL
 Security: Spring Security using JWT for authentication and authorization.
 
+To run the application select src/main ->Java -> com ->example -> inventorydashboard -> app.java.
+
 Here is the demo of our project , shows how it works
 
 https://github.com/user-attachments/assets/dc4bd5ed-0c05-4a77-9a01-a51a7afcaf40
 
+C:\alldone\InventoryDashboard.zip\InventoryDashboard\src\main\java\com\example\inventorydashboard
